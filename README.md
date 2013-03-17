@@ -1,6 +1,6 @@
 # jQuery Photo Gallery
 
-This small collection of HTML, CSS and JavaScript files is intended to help complete beginners learn how to use jQuery.
+This small collection of HTML, CSS and JavaScript files is intended to help *complete beginners* learn how to use jQuery. You can [see the live Web pages](http://macloo.github.com/jquery-photo-gallery/) to observe the differences among the four files.
 
 [Version 0](photos0.html) of the photo gallery establishes the basic format in the HTML, but the jQuery for that file -- [photos0.js](scripts/photos0.js) -- is incomplete. It shows us something interesting in its incompleteness, though: When we move something with jQuery, it really is gone from its original place in the HTML. 
 
