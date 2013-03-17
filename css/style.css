@@ -14,8 +14,9 @@ body {
 
 #pics {
 	list-style: none;
-	width: 700px;
+	width: 600px;
 	margin: 0;
+	padding: 20px 30px;
 	float: left;
 }
 
