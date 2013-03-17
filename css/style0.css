@@ -1,0 +1,17 @@
+/* minimum style for photo gallery */
+
+#pics {
+	list-style: none;
+	width: 700px; /* makes the thumbs go to two rows */ 
+	margin: 0;
+	padding: 0 20px;
+}
+
+#pics li {
+	list-style: none;
+	display: inline; /* makes the thumbs display horizontal */ 
+}
+
+.view {
+	padding: 10px 20px;
+}

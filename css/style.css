@@ -1,0 +1,37 @@
+body {
+	font-family: Verdana, san-serif;
+	font-size: 100%;
+	background: #fff;
+	color: #000;
+	}
+
+#viewer {
+	width: 600px;
+	padding: 20px 30px;
+	background: #96d2e2;
+	float: left;
+	}
+
+#pics {
+	list-style: none;
+	width: 700px;
+	margin: 0;
+	float: left;
+}
+
+#pics li {
+	list-style: none;
+	display: inline;
+}
+
+
+/* this hides the thumbnail images - they will be shown via jQuery. 
+   We do this in case a user has JavaScript disabled, in which case 
+   that user will just see all the photos on one page */
+.thumb { 
+	display: none;
+	}
+
+.view {
+	padding: 10px 30px;
+}
